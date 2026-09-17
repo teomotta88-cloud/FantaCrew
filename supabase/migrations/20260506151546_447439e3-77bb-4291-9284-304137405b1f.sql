@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Player photos public read" ON storage.objects;

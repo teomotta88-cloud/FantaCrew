@@ -1,0 +1,1 @@
+ALTER TABLE public.teams ADD COLUMN talisman_player_id uuid;

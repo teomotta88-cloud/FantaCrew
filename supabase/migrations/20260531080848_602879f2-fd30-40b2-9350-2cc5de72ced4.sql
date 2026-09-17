@@ -1,0 +1,1 @@
+ALTER TABLE special_actions ADD COLUMN IF NOT EXISTS expires_at date NULL;
